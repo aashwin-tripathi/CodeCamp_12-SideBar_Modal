@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CodeCamp_12-SideBar_Modal/static/css/main.19d3afdf.chunk.css",
+    "main.js": "/CodeCamp_12-SideBar_Modal/static/js/main.f4a4ec14.chunk.js",
+    "main.js.map": "/CodeCamp_12-SideBar_Modal/static/js/main.f4a4ec14.chunk.js.map",
+    "runtime-main.js": "/CodeCamp_12-SideBar_Modal/static/js/runtime-main.a5a53f7e.js",
+    "runtime-main.js.map": "/CodeCamp_12-SideBar_Modal/static/js/runtime-main.a5a53f7e.js.map",
+    "static/js/2.43f1e553.chunk.js": "/CodeCamp_12-SideBar_Modal/static/js/2.43f1e553.chunk.js",
+    "static/js/2.43f1e553.chunk.js.map": "/CodeCamp_12-SideBar_Modal/static/js/2.43f1e553.chunk.js.map",
+    "index.html": "/CodeCamp_12-SideBar_Modal/index.html",
+    "precache-manifest.4b178a60765ba67f052630158af3ffd4.js": "/CodeCamp_12-SideBar_Modal/precache-manifest.4b178a60765ba67f052630158af3ffd4.js",
+    "service-worker.js": "/CodeCamp_12-SideBar_Modal/service-worker.js",
+    "static/css/main.19d3afdf.chunk.css.map": "/CodeCamp_12-SideBar_Modal/static/css/main.19d3afdf.chunk.css.map",
+    "static/js/2.43f1e553.chunk.js.LICENSE.txt": "/CodeCamp_12-SideBar_Modal/static/js/2.43f1e553.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/CodeCamp_12-SideBar_Modal/static/media/logo.2b686f2e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5a53f7e.js",
+    "static/js/2.43f1e553.chunk.js",
+    "static/css/main.19d3afdf.chunk.css",
+    "static/js/main.f4a4ec14.chunk.js"
+  ]
+}
